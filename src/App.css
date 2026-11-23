@@ -1,0 +1,8 @@
+/*只跟某个组件自己的排版有关(比如 App 里面 grid 怎么切) → 放 App.css*/
+.app {
+  display: flex;
+}
+
+main {
+  flex: 1;
+}
